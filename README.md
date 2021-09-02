@@ -1,3 +1,5 @@
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
 # SSH_fixing
 "Help, I keep getting a 'Permission Denied (publickey)' error when I push!"
 This means, on your local machine, you haven't made any SSH keys. Not to worry. Here's how to fix:
